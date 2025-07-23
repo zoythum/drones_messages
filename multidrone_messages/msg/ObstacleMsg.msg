@@ -1,0 +1,3 @@
+geometry_msgs/Point location
+float64 radius
+string identifier
